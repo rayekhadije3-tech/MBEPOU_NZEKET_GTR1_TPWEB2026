@@ -1,0 +1,38 @@
+body{
+    background-color: lightgray;
+    font-family: Arial,sans-serif;
+    margin: 20px;
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h2{
+    color: darkgray;
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin-right: 15px;
+}
+a:hover{
+    color: red;
+}
+img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.section{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.hightlight{
+    color: green;
+    font-weight: bold;
+}
